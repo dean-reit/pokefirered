@@ -1,16 +1,18 @@
-# Pokémon FireRed and LeafGreen
+# Pokémon RojoFuego y VerdeHoja Latino
 
-This is a decompilation of English Pokémon FireRed and LeafGreen.
+Está es una traducción no oficial al español latino de la descompilación Pokémon FireRed & LeafGreen (pokefirered). El proyecto fue retomado y está en progreso actualmente.
 
-It builds the following ROM images:
+Para instalar el repositorio, revisa [INSTALL.md](INSTALL.md). o busca un tutorial en español por internet. También puedes integrarlo a tu propio proyecto si así lo deseas.
 
-* [**pokefirered.gba**](https://datomatic.no-intro.org/?page=show_record&s=23&n=1616) `sha1: 41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc`
-* [**pokeleafgreen.gba**](https://datomatic.no-intro.org/?page=show_record&s=23&n=1617) `sha1: 574fa542ffebb14be69902d1d36f1ec0a4afd71e`
-* [**pokefirered_rev1.gba**](https://datomatic.no-intro.org/?page=show_record&s=23&n=1672) `sha1: dd5945db9b930750cb39d00c84da8571feebf417`
-* [**pokeleafgreen_rev1.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1668) `sha1: 7862c67bdecbe21d1d69ce082ce34327e1c6ed5e`
-* [**pokefirered_switch.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=x550) `sha1: baa452d0b24629dd7782cfc07a8984085dde1311`
-* [**pokeleafgreen_switch.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=x551) `sha1: 62b9fc77549dbc67032eb6cbd0ea6ad3b825690f`
+Si tienes alguna pregunta, puede que la haya incluiendo en P&R.md anteriormente, así que, por favor, revisa dicho archivo.
 
-To set up the repository, see [INSTALL.md](INSTALL.md).
+En caso de usar esta traducción en tu proyecto, ya sea con cambios o no, por favor da créditos a las personas mencionadas en CRÉDITOS.md, pues sin sus aportes, esto no sería posible.
 
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+Para contactos y otros proyectos de pret, véase [pret.github.io](https://pret.github.io/).
+
+... NO vayan al discord de pret a preguntar algo sobre esta traducción por favor, ni hablan español :) (Hablarme por ahí esta bien, pero preferiría no desviar un canal o conversación).
+
+## Contacto/Contact
+- Puedes encontrarme en Discord como dean_reit.
+
+- You can find me on Discord as dean_reit.
