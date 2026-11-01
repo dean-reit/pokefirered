@@ -58,7 +58,8 @@
   - AF The Dubbing House
   - SDI Media de México
   - Jarpa Studio Mexico
-  - DuArtFilm & Video, Iyuno
+  - DuArtFilm & Video
+  - Iyuno
   - Todos los involucrados en la traducción y adaptación del anime de Pokémon en Latinoamérica
 
 - [Créditos de Pokémon Z-A](https://bulbapedia.bulbagarden.net/wiki/Staff_of_Pok%C3%A9mon_Legends:_Z-A#Latin_American_Spanish_Editing) (Relevante en la etapa moderna del proyecto, posiblemente incompleto/inexacto)
