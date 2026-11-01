@@ -6,7 +6,7 @@ Para instalar el repositorio, revisa [INSTALL.md](INSTALL.md). o busca un tutori
 
 Si tienes alguna pregunta, puede que la haya incluiendo en P&R.md anteriormente, así que, por favor, revisa dicho archivo.
 
-En caso de usar esta traducción en tu proyecto, ya sea con cambios o no, por favor da créditos a las personas mencionadas en CRÉDITOS.md, pues sin sus aportes, esto no sería posible.
+En caso de usar esta traducción, ya sea con cambios o no, por favor incorpora [CRÉDITOS.md](CRÉDITOS.md) como archivo separado o dentro de los créditos de tu proyecto, pues sin sus aportes, esto no sería posible.
 
 Para contactos y otros proyectos de pret, véase [pret.github.io](https://pret.github.io/).
 
