@@ -6,12 +6,12 @@ PalletTown_RivalsHouse_Text_HiBrothersAtLab::
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
     .string "Daisy: {PLAYER}, oí que tuviste\n"
     .string "una batalla contra {RIVAL}.\p"
-    .string "¡Desearía haber visto eso!$"
+    .string "¡Me hubiera gustado verla!$"
 
 PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
     .string "¿El abuelo te pidió un\n"
     .string "encargo?\p"
-    .string "Vaya, eso es flojo de su parte.\n"
+    .string "Vaya, suena difícil.\n"
     .string "Ten, esto te ayudará.$"
 
 PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisy::
@@ -44,7 +44,7 @@ PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
     .string "Daisy: ¡Hola, {PLAYER}!\n"
     .string "Viniste en un buen momento.\p"
-    .string "Voy a tener algo de té.\n"
+    .string "Voy a tomar algo de té.\n"
     .string "¿Te gustaría unirte?\p"
     .string "Oh, pero mira.\n"
     .string "Tus Pokémon están un poco sucios.\p"
@@ -53,25 +53,25 @@ PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
 PalletTown_RivalsHouse_Text_DontNeedAnyGrooming::
     .string "¿No necesitas que limpie a\n"
     .string "ningún Pokémon?\p"
-    .string "De acuerdo, solo tendremos té.$"
+    .string "De acuerdo, solo tomaremos té.$"
 
 PalletTown_RivalsHouse_Text_GroomWhichOne::
     .string "¿A cúal debería limpiar?$"
 
 PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
-    .string "Daisy: Bien, haré que se vea bonito\n"
+    .string "Daisy: Bien, se verá mucho mejor\n"
     .string "en poco tiempo.$"
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
-    .string "{FONT_NORMAL}{STR_VAR_1} se ve muy contento…\p"
-    .string "{FONT_FEMALE}Daisy: ¡Ahí lo tienes! Todo listo.\n"
+    .string "{FONT_NORMAL}{STR_VAR_1} parece estar feliz…\p"
+    .string "{FONT_FEMALE}Daisy: ¡Ya está! Todo listo.\n"
     .string "¿Ves? ¿Tiene un buen aspecto o no?\p"
     .string "Jiji…\n"
-    .string "Es un Pokémon muy lindo..$"
+    .string "Es un Pokémon muy adorable.$"
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
-    .string "Oh, lo siento. Honestamente no\n"
-    .string "puedo limpiar a un Huevo.$"
+    .string "Oh, lo siento.\n"
+    .string "No puedo limpiar un Huevo.$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
     .string "Daisy: Tus Pokémon aprenderán a\n"
@@ -80,18 +80,18 @@ PalletTown_RivalsHouse_Text_MayISeeFirstMon::
     .string "ver a tu primer Pokémon?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
-    .string "No puede quererte más de lo que te\n"
-    .string "quiere ahora.\p"
-    .string "La felicidad de tu Pokémon esta\n"
-    .string "más allá de las palabras.$"
+    .string "Tu Pokémon no puede quererte más\n"
+    .string "de lo que te quiere ahora.\p"
+    .string "No hay palabras para expresar\n"
+    .string "su felicidad.$"
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
     .string "Se ve muy feliz.\p"
     .string "Ojalá {RIVAL} pudiera ver esto y\n"
-    .string "aprediera algo.$"
+    .string "aprender algo.$"
 
 PalletTown_RivalsHouse_Text_ItsQuiteFriendly::
-    .string "Es muy amistoso contigo.\n"
+    .string "Es muy amigable contigo.\n"
     .string "¡Sigue haciéndolo bien!$"
 
 PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
@@ -107,13 +107,13 @@ PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
     .string "{PLAYER}, no me gusta la forma en\n"
     .string "la que te mira.\p"
     .string "¿Podrías intentar ser más amable\n"
-    .string "con el?$"
+    .string "con tu Pokémon?$"
 
 PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
-    .string "…Um, no es fácil para mi decir\n"
-    .string "esto, pero…\p"
+    .string "…Um, no es fácil para mi\n"
+    .string "decírtelo, pero…\p"
     .string "¿Hay alguna razón para qué tu\n"
-    .string "Pokémon te odie tanto?$"
+    .string "Pokémon te rechace tanto?$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
     .string "“El cariñoso y dulce\n"

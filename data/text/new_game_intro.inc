@@ -134,18 +134,18 @@ gControlsGuide_Text_DPad::
     .string "opciones.$"
 
 gControlsGuide_Text_AButton::
-    .string "Confirma opciones, revisa\n"
-    .string "cosas, chatea y lee texto.$"
+    .string "Confirmar opciones, curiosear\n"
+    .string "cosas, chatear y leer texto.$"
 
 gControlsGuide_Text_BButton::
-    .string "Retrocede, cancela opciones\n"
-    .string "y ayuda a salir de varios menús.$"
+    .string "Retroceder, cancelar opciones\n"
+    .string "y salir de distintos menús.$"
 
 gControlsGuide_Text_StartButton::
     .string "Este botón abre el menú.$"
 
 gControlsGuide_Text_SelectButton::
-    .string "Cambia objetos de lugar y usa\n"
+    .string "Cambiar objetos de lugar y usar\n"
     .string "el que se haya registrado.$"
 
 gControlsGuide_Text_LRButtons::
@@ -161,7 +161,7 @@ gPikachuIntro_Text_Page1::
     .string "mundo de fantasía, donde serás\n"
     .string "protagonista de una gran aventura.\n"
     .string "\n"
-    .string "Habla con la gente y revisa cosas\n"
+    .string "Habla con la gente y curiosea\n"
     .string "estés donde estés, ya sea pueblos,\n"
     .string "caminos o cuevas. Reúne información\n"
     .string "y pistas de cada fuente.$"
@@ -189,20 +189,20 @@ gOakSpeech_Text_WelcomeToTheWorld::
     .string "¡Encantado de conocerte!\p"
     .string "¡Este es el mundo de Pokémon!\p"
     .string "Mi nombre es Oak.\p"
-    .string "Pero la gente me llama\n"
+    .string "Pero todos me conocen como\n"
     .string "Profesor Pokémon.\p$"
 
 gOakSpeech_Text_ThisWorld::
     .string "Este mundo…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-    .string "…está habitado por unas\n"
-    .string "criaturas llamadas Pokémon.\p$"
+    .string "…está habitado en todas partes por\n"
+    .string "unas criaturas llamadas Pokémon.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
     .string "Para algunos, los Pokémon son\n"
     .string "mascotas. Pero otros los usan\l"
-    .string "para pelear.\p"
+    .string "en batallas.\p"
     .string "En cuanto a mí…\p"
     .string "Estudio a los Pokémon como\n"
     .string "profesión.\p$"
@@ -236,6 +236,6 @@ gOakSpeech_Text_RememberRivalsName::
 gOakSpeech_Text_LetsGo::
     .string "¡{PLAYER}!\p"
     .string "¡Tu propia leyenda Pokémon está\n"
-    .string "apunto de comenzar!\p"
+    .string "a punto de comenzar!\p"
     .string "¡Te espera un mundo de sueños y\n"
     .string "aventuras con los Pokémon! ¡Vamos!$"

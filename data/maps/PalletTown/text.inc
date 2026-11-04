@@ -16,13 +16,13 @@ PalletTown_Text_RaisingMonsToo::
     .string "podrán protegerme.$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
-    .string "¡La tecnología es incredíble!\p"
+    .string "¡El poder de la ciencia es increíble!\p"
     .string "Ahora puedes guardar y sacar\n"
     .string "objetos y Pokémon, via PC.$"
 
 PalletTown_Text_OakPokemonResearchLab::
-    .string "Laboratorio de Investigación\n"
-    .string "Pokémon del Profesor Oak$"
+    .string "Laboratorio de Investigación Pokémon\n"
+    .string "del Profesor Oak$"
                
 PalletTown_Text_PlayersHouse::
     .string "Casa de {PLAYER}$"
@@ -44,8 +44,8 @@ PalletTown_Text_OakLetMeSeePokedex::
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
     .string "Has atrapado {STR_VAR_2}…\p"
-    .string "Hm, parece que estas haciendo\n"
-    .string "un esfuerzo honesto.\p"
+    .string "Parece que te estás esforzando\n"
+    .string "mucho.\p"
     .string "Cuando logres llenar más, ven a\n"
     .string "enseñarme, por favor.$"
 
