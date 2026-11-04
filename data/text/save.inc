@@ -17,7 +17,7 @@ gText_SaveFailed2::
 
 gText_DifferentGameFile::
 	.string "¡ADVERTENCIA!\p"
-	.string "Ya hay una partida guardada.\n"
+	.string "Ya hay una partida guardada.\p"
 	.string "Si guardas ahora, perderás los\n"
 	.string "datos de la otra partida,\l"
 	.string "incluyendo objetos y Pokémon.\p"
