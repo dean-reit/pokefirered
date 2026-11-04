@@ -21,6 +21,7 @@
 - Fuentes de texto
 
 ## Traducción faltante
+- Postgame (Resto de las Islas Sete)
 - Sistema de vocabulario/Easy Chat
 - Fame Checker/Memorín
 - Enséñame TV/Teachy TV
