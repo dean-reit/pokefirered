@@ -196,8 +196,8 @@ gOakSpeech_Text_ThisWorld::
     .string "Este mundo…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-    .string "…está habitado en todas partes por\n"
-    .string "unas criaturas llamadas Pokémon.\p$"
+    .string "…está lleno de unas criaturas\n"
+    .string "llamadas Pokémon.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
     .string "Para algunos, los Pokémon son\n"

@@ -4,8 +4,8 @@ ViridianCity_School_Text_TryingToMemorizeNotes::
 
 ViridianCity_School_Text_ReadBlackboardCarefully::
     .string "¡Muy bien!\p"
-    .string "¡Asegurate de leer cuidadosamente\n"
-    .string "lo que está en la pizarra!$"
+    .string "¡Asegurate de leer la pizarra\n"
+    .string "cuidadosamente!$"
 
 ViridianCity_School_Text_NotebookFirstPage::
     .string "Voy a revisar el cuaderno.\p"
@@ -14,7 +14,7 @@ ViridianCity_School_Text_NotebookFirstPage::
     .string "a los Pokémon.\p"
     .string "Puedes llevar hasta seis Pokémon.\p"
     .string "Los Entrenadores son las personas\n"
-    .string "que crian y tienen batallas\l"
+    .string "que crían y tienen batallas\l"
     .string "con sus Pokémon.$"   
 
 ViridianCity_School_Text_NotebookSecondPage::
@@ -37,7 +37,7 @@ ViridianCity_School_Text_NotebookThirdPage::
 ViridianCity_School_Text_NotebookFourthPage::
     .string "Cuarta página…\p"
     .string "El objetivo de todo Entrenador\n"
-    .string "es el derrotar a los ocho mejores\l"
+    .string "es derrotar a los ocho mejores\l"
     .string "Líderes de Gimnasio.\p"
     .string "El que lo consiga, podrá desafiar…\p"
     .string "¡Al Alto Mando de la Liga\n"
@@ -62,7 +62,7 @@ ViridianCity_School_Text_ExplainSleep::
     .string "Un Pokémon no puede atacar si\n"
     .string "está dormido.\p"
     .string "Los Pokémon seguirán dormidos\n"
-    .string "incluso después de pelear.\p"
+    .string "incluso después de la batalla.\p"
     .string "Usa Despertar para que despierten.$"
 
 ViridianCity_School_Text_ExplainBurn::
@@ -84,7 +84,7 @@ ViridianCity_School_Text_ExplainPoison::
 ViridianCity_School_Text_ExplainFreeze::
     .string "Al ser congelado, un Pokémon se\n"
     .string "vuelve totalmente inmovil.\p"
-    .string "Y seguira congelado tras la\n"
+    .string "Y seguirá congelado tras la\n"
     .string "batalla.\p"
     .string "Usa el Antihielo para descongelar\n"
     .string "a los pobres Pokémon.$"

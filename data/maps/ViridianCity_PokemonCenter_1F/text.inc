@@ -2,7 +2,7 @@ ViridianCity_PokemonCenter_1F_Text_FeelFreeToUsePC::
     .string "Puedes usar esa PC en la esquina\n"
     .string "tanto como quieras.\p"
     .string "Me lo dijo la recepcionista.\n"
-    .string "¡Eso es muy amable de su parte!$"
+    .string "¡Qué amable de su parte!$"
 
 ViridianCity_PokemonCenter_1F_Text_PokeCenterInEveryTown::
     .string "Hay un Centro Pokémon en todos\n"

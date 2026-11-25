@@ -8,7 +8,7 @@ ViridianCity_Text_CanCarryMonsAnywhere::
 ViridianCity_Text_GymClosedWonderWhoLeaderIs::
     .string "Este Gimnasio Pokémon siempre\n"
     .string "está cerrado.\p"
-    .string "¿Quién será su Líder?$"
+    .string "Me pregunto quién será su Líder.$"
 
 ViridianCity_Text_ViridiansGymLeaderReturned::
     .string "¡El Líder de Gimnasio de Verde\n"
@@ -29,29 +29,25 @@ ViridianCity_Text_ExplainCaterpieWeedle::
     .string "de Weedle.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
-    .string "¡Oh, Abuelo!\n"
-    .string "¡Durmiendo aquí, de todos los\l"
-    .string "lugares!\p"
-    .string "No podemos hacer nada…\n"
-    .string "Tendremos que esperar a\l"
-    .string "que deje de estar ebrio…$"
+    .string "¡Oh, abuelo!\n"
+    .string "¡No seas tan grosero!\p"
+    .string "Lo siento tanto.\n"
+    .string "Todavía no se ha tomado su café.$"
 
 ViridianCity_Text_GoShoppingInPewterOccasionally::
     .string "De vez en cuando voy de compras\n"
     .string "a Ciudad Plateada.\p"
-    .string "Cuando voy, tengo que tomar el\n"
-    .string "sinuoso camino del Bosque Verde.$"
+    .string "El camino tiene muchas curvas\n"
+    .string "dentro del Bosque Verde.$"
 
 ViridianCity_Text_ThisIsPrivateProperty::
-    .string "¡Aagh…! Hip… ¡Quedate justo ahí!\n"
-    .string "¡Escucha lo que tengo que decir!\p"
-    .string "…¡Oye!\n"
-    .string "¡Dije que no te vayas!$"
+    .string "¡Tienes absolutamente prohibido\n"
+    .string "pasar por aquí!\p"
+    .string "¡Es propiedad privada!$"
 
 ViridianCity_Text_ShowYouHowToCatchMons::
-    .string "Mmm…\n"
-    .string "¡Parece que estaba bastante\l"
-    .string "borracho!\p"
+    .string "Bueno, ya tomé mi café, ¡y era lo\n"
+    .string "que necesitaba para reactivarme!\p"
     .string "¿Oh?\n"
     .string "¿Qué es esa caja roja?\p"
     .string "Ah, así que estás trabajando\n"
@@ -62,33 +58,35 @@ ViridianCity_Text_ShowYouHowToCatchMons::
     .string "la Pokédex actualizará sus datos\l"
     .string "automáticamente.\p"
     .string "…¿No sabes atrapar Pokémon?\p"
-    .string "¡En ese caso, supongo que tendre\n"
+    .string "¡En ese caso, supongo que tendré\n"
     .string "que mostrarte como!$"
 
 ViridianCity_Text_ThatWasEducationalTakeThis::
-    .string "¡Listo! no me diras que no\n"
+    .string "¡Listo! no me dirás que no\n"
     .string "ha sido educativo, ¿eh?\p"
     .string "Vamos, toma esto.$"
 
 ViridianCity_Text_WatchThatToLearnBasics::
     .string "Úsala si es que hay algo que\n"
     .string "no entiendas.\p"
-    .string "Te enseñara lo básico de ser un{A}\n"
+    .string "Te explicará lo básico de ser un{A}\n"
     .string "Entrenador{A} Pokémon.$"
 
 ViridianCity_Text_WeakenMonsFirstToCatch::
-    .string "¡Parece que estaba bastante\n"
-    .string "borracho!\p"
+    .string "Bueno, ya tomé mi café, ¡y era lo\n"
+    .string "que necesitaba para reactivarme!\p"
+    .string "Pero lo hice muy cargado.\n"
     .string "Me duele la cabeza…\p"
     .string "Por cierto, ¿estás llenando tu\n"
     .string "Pokédex?\p"
-    .string "Primero, concentrate en debilitar\n"
+    .string "Primero, concéntrate en debilitar\n"
     .string "al Pokémon antes de intentar\l"
     .string "atraparlo.$"
 
 ViridianCity_Text_HowsTeachyTVHelping::
-    .string "¡Parece que estaba bastante\n"
-    .string "borracho!\p"
+    .string "Bueno, ya tomé mi café, ¡y era lo\n"
+    .string "que necesitaba para reactivarme!\p"
+    .string "Pero lo hice muy cargado.\n"
     .string "Me duele la cabeza…\p"
     .string "Por cierto, ¿te esta ayudando\n"
     .string "mi vieja Enseñame TV?$"
@@ -96,13 +94,13 @@ ViridianCity_Text_HowsTeachyTVHelping::
 ViridianCity_Text_MyGrandsonOnTheShow::
     .string "¡Wajaja!\n"
     .string "¡Mi nieto esta en el programa!\p"
-    .string "Como él es quien enseña, es\n"
-    .string "muy probable que aprendas.$"
+    .string "Como él es quien enseña, seguro\n"
+    .string "aprenderás algo.$"
 
 ViridianCity_Text_TooBusyForTeachyTV::
     .string "Hm… Estás muy ocupad{OA}, incluso\n"
     .string "para usar la Enseñame TV…\p"
-    .string "El tiempo es dinero, y ninguno de\n"
+    .string "El tiempo es oro, y ninguno de\n"
     .string "los dos debería ser malgastado…$"
 
 ViridianCity_Text_CitySign::

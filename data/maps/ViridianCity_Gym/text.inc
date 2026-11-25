@@ -1,7 +1,7 @@
 ViridianCity_Gym_Text_GiovanniIntro::
     .string "¡Fuajajaja!\n"
     .string "¡Bienvenid{OA} a mi guarida!\p"
-    .string "Estaré aquí hasta que pueda\n"
+    .string "Al menos lo será hasta que pueda\n"
     .string "resturar al Equipo Rocket a su\l"
     .string "gloria pasada.\p"
     .string "Pero me encontraste otra vez.\n"
@@ -18,8 +18,8 @@ ViridianCity_Gym_Text_GiovanniDefeat::
     .string "Medalla Tierra!{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}$"
 
 ViridianCity_Gym_Text_GiovanniPostBattle::
-    .string "Tras perder de esta manera,\n"
-    .string "no puedo mirar a mis seguidores.\l"
+    .string "Tras perder de esta manera, no\n"
+    .string "puedo encarar a mis seguidores.\l"
     .string "He roto su confianza.\p"
     .string "¡A partir de hoy, el Equipo Rocket\n"
     .string "se acabó para siempre!\p"
@@ -29,7 +29,7 @@ ViridianCity_Gym_Text_GiovanniPostBattle::
     .string "¡Adiós!$"
 
 ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
-    .string "La MedallaTierra hace que\n"
+    .string "La Medalla Tierra hace que\n"
     .string "cualquier Pokémon obedezca.\p"
     .string "Es evidencia de tu maestría como\n"
     .string "Entrenador{A} Pokémon.\p"
@@ -54,22 +54,23 @@ ViridianCity_Gym_Text_YouDoNotHaveSpace::
     .string "¡No tienes espacio para esto!$"
 
 ViridianCity_Gym_Text_YujiIntro::
-    .string "¡Je!\n"
-    .string "¡Ya debes estar con poca energía!$"
+    .string "¡Je!\p"
+    .string "¡Ya te debes estar quedando sin\n"
+    .string "energía!$"
 
 ViridianCity_Gym_Text_YujiDefeat::
-    .string "¡Me quedé sin combustible!$"
+    .string "¡Me quedé sin fuerzas!$"
 
 ViridianCity_Gym_Text_YujiPostBattle::
     .string "Necesitarás poder para luchar\n"
     .string "contra nuesto Líder de Gimnasio.$"
 
 ViridianCity_Gym_Text_AtsushiIntro::
-    .string "¡Rrrroar!\n"
+    .string "¡Groaar!\n"
     .string "¡Me estoy enfureciendo!$"
 
 ViridianCity_Gym_Text_AtsushiDefeat::
-    .string "¡Wargh!$"
+    .string "¡Rargh!$"
 
 ViridianCity_Gym_Text_AtsushiPostBattle::
     .string "¡Aún no soy digno!$"
@@ -86,15 +87,15 @@ ViridianCity_Gym_Text_JasonPostBattle::
     .string "Líder de Gimnasio?$"
 
 ViridianCity_Gym_Text_KiyoIntro::
-    .string "¡El kárate es la forma definitiva\n"
+    .string "¡El karate es la forma definitiva\n"
     .string "de las artes marciales!$"
 
 ViridianCity_Gym_Text_KiyoDefeat::
-    .string "¡Aiyah!$"
+    .string "¡Aiya!$"
 
 ViridianCity_Gym_Text_KiyoPostBattle::
     .string "Si mis Pokémon fueran tan buenos\n"
-    .string "en el kárate como yo…$"
+    .string "en el karate como yo…$"
 
 ViridianCity_Gym_Text_WarrenIntro::
     .string "Los más hábiles ganan con estilo.$"
@@ -107,11 +108,11 @@ ViridianCity_Gym_Text_WarrenPostBattle::
     .string "perder así…$"
 
 ViridianCity_Gym_Text_TakashiIntro::
-    .string "¡Soy el Rey del Kárate!\n"
+    .string "¡Soy el Rey del Karate!\n"
     .string "¡Tu destino depende de mí!$"
 
 ViridianCity_Gym_Text_TakashiDefeat::
-    .string "¡Ayah!$"
+    .string "¡Ayaaa!$"
 
 ViridianCity_Gym_Text_TakashiPostBattle::
     .string "¿La Liga Pokémon?\n"
@@ -143,7 +144,7 @@ ViridianCity_Gym_Text_SamuelPostBattle::
     .string "Líder de Gimnasio!$"
 
 ViridianCity_Gym_Text_GymGuyAdvice::
-    .string "¡Yo!\n"
+    .string "¡Hola!\n"
     .string "¡Futur{OA} campe{ONONA}!\p"
     .string "Ni siquiera yo conozco la identidad\n"
     .string "del Líder de este Gimnasio.\p"

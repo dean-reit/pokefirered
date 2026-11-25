@@ -150,7 +150,7 @@ PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
     .string "¡Ah!\n"
-    .string "¡Es la Pokébola perzonalizada que\n"
+    .string "¡Es la Pokébola perzonalizada que\l"
     .string "había encargado!\p"
     .string "¡Gracias!$"
 
